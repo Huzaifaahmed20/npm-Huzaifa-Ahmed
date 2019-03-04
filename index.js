@@ -7,7 +7,7 @@ const github = blueBright('https://github.com/Huzaifaahmed20')
 const npx = white('npx huzaifaahmed')
 
 const newline = '\n'
-const heading = `${white('  Ahsan Ayaz /')} ${blueBright('ahsanayaz')}`
+const heading = `${white('  Huzaifa Ahmed /')} ${blueBright('huzaifaahmed')}`
 const working = `${white(bold('     Work:'))}  ${work}`
 const linkedining = `${white(bold('  LinkedIn:'))} ${linkedIn}`
 const mediuming = `${white(bold('  Medium:'))}  ${medium}`
