@@ -6,6 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "huzaifaahmed": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Huzaifaahmed20/npm-Huzaifa-Ahmed.git"
+  },
   "author": "Huzaifa Ahmed",
   "license": "ISC",
   "dependencies": {
