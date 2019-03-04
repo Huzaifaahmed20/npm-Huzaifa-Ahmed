@@ -13,6 +13,9 @@
     "type": "git",
     "url": "git+https://github.com/Huzaifaahmed20/npm-Huzaifa-Ahmed.git"
   },
+  "keywords": [
+    "hzuaifaahmed"
+  ],
   "author": "Huzaifa Ahmed",
   "license": "ISC",
   "dependencies": {
