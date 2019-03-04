@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const { white, bold, blueBright } = require("colorette");
 
 const work = white(`Jr. Associate React @ ${blueBright('Mikaels Labs')}`)
